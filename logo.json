@@ -3,6 +3,7 @@
     "channel": {
         "中央综合频道": "cctv1",
         "CCTV-1": "cctv1",
+        "CCTV-1 综合频道": "cctv1",
         "中央一台": "cctv1",
         "CCTV-2": "cctv2",
         "中央二台": "cctv2",
@@ -63,10 +64,26 @@
         "甘肃卫视": "GSTV",
         "宁夏卫视": "NXTV",
         "内蒙古卫视": "NMGTV",
-        "深圳卫视": "NMGTV",
+        "深圳卫视": "SZTV",
+        "深圳衛視": "SZTV",
         "SZTV": "SZTV",
-         "GD": "ZHUJTV",
-         "SZTV-1": "SZTV-1"
+        "GD": "ZHUJTV",
+        "SZTVM02": "SZTVM02",
+        "SZTVM03": "SZTVM03",
+        "SZTVM04": "cctvnews",
+        "SZTVM05": "SZTVM05",
+        "SZTV-1": "SZTV-1",
+        "SZTV-2": "SZTV-2",
+        "SZTV-3": "SZTV-3", 
+        "SZTV-4": "SZTV-4",
+        "SZTV-5": "SZTV-5", 
+        "SZTV-6": "SZTV-6",
+        "SZTV-7": "SZTV-7",
+        "J2台": "J2",
+        "亞洲台": "YZTV",
+        "高清翡翠台": "GQFCTV",
+        "歲月留聲": "SYLSTV"
+
     },
     "logo": {
         "cctv1": "http://static.tvmao.com/channel/logo/CCTV1.jpg",
@@ -114,6 +131,19 @@
         "NMGTV": "http://static.tvmao.com/channel/logo/NMGTV1.jpg",
         "ZHUJTV": "http://static.tvmao.com/channel/logo/GDTV2.jpg",
         "SZTV": "http://static.tvmao.com/channel/logo/SZTV1.jpg",
-        "SZTV-1": "http://static.tvmao.com/channel/logo/SZTV2.jpg"
+        "SZTV-1": "http://static.tvmao.com/channel/logo/SZTV2.jpg",
+        "SZTVM03": "http://static.tvmao.com/channel/logo/SZTV11.jpg",
+        "SZTVM02": "http://static.tvmao.com/channel/logo/SZTV9.jpg",
+        "SZTVM05": "http://static.tvmao.com/channel/logo/SZTV9.jpg",
+        "SZTV-2": "http://static.tvmao.com/channel/logo/SZTV3.jpg",
+        "SZTV-3": "http://static.tvmao.com/channel/logo/SZTV4.jpg", 
+        "SZTV-4": "http://static.tvmao.com/channel/logo/SZTV5.jpg",
+        "SZTV-5": "http://static.tvmao.com/channel/logo/SZTV6.jpg", 
+        "SZTV-6": "http://static.tvmao.com/channel/logo/SZTV7.jpg",
+        "SZTV-7": "http://static.tvmao.com/channel/logo/SZTV8.jpg",
+        "J2": "http://static.tvmao.com/channel/logo/TVB11.jpg",
+        "YZTV": "http://static.tvmao.com/channel/logo/HKATV-ASIA.jpg",
+        "GQFCTV": "http://static.tvmao.com/channel/logo/TVB12.jpg",
+        "SYLSTV": "http://static.tvmao.com/channel/logo/ATV-CLASSIC.jpg"
     }
 }
