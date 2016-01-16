@@ -12,6 +12,7 @@
         "中央四台": "cctv4",
         "CCTV-5": "cctv5",
         "中央五台": "cctv5",
+        "CCTV-5+": "cctv5+",
         "CCTV-6": "cctv6",
         "中央六台": "cctv6",
         "CCTV-7": "cctv7",
@@ -32,7 +33,7 @@
         "中央十四台": "cctv14",
         "CCTV-15": "cctv15",
         "中央十五台": "cctv15",
-        "CCTV-news": "cctvnews",
+        "CCTV-NEWS": "cctvnews",
         "中央新闻频道": "cctvnews",
         "央视新闻": "cctvnews",
          "GDTV": "GDTV",
@@ -61,7 +62,11 @@
         "青海卫视": "QHTV",
         "甘肃卫视": "GSTV",
         "宁夏卫视": "NXTV",
-        "内蒙古卫视": "NMGTV"
+        "内蒙古卫视": "NMGTV",
+        "深圳卫视": "NMGTV",
+        "SZTV": "SZTV",
+         "GD": "ZHUJTV",
+         "SZTV-1": "SZTV-1"
     },
     "logo": {
         "cctv1": "http://static.tvmao.com/channel/logo/CCTV1.jpg",
@@ -69,6 +74,7 @@
         "cctv3": "http://static.tvmao.com/channel/logo/CCTV3.jpg",
         "cctv4": "http://static.tvmao.com/channel/logo/CCTV4.jpg",
         "cctv5": "http://static.tvmao.com/channel/logo/CCTV5.jpg",
+        "cctv5+": "http://static.tvmao.com/channel/logo/CCTV5-PLUS.jpg",
         "cctv6": "http://static.tvmao.com/channel/logo/CCTV6.jpg",
         "cctv7": "http://static.tvmao.com/channel/logo/CCTV7.jpg",
         "cctv8": "http://static.tvmao.com/channel/logo/CCTV8.jpg",
@@ -105,6 +111,9 @@
         "QHTV": "http://static.tvmao.com/channel/logo/QHTV1.jpg",
         "GSTV": "http://static.tvmao.com/channel/logo/GSTV1.jpg",
         "NXTV": "http://static.tvmao.com/channel/logo/NXTV2.jpg",
-        "NMGTV": "http://static.tvmao.com/channel/logo/NMGTV1.jpg"
+        "NMGTV": "http://static.tvmao.com/channel/logo/NMGTV1.jpg",
+        "ZHUJTV": "http://static.tvmao.com/channel/logo/GDTV2.jpg",
+        "SZTV": "http://static.tvmao.com/channel/logo/SZTV1.jpg",
+        "SZTV-1": "http://static.tvmao.com/channel/logo/SZTV2.jpg"
     }
 }
