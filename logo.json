@@ -84,6 +84,7 @@
         "深圳卫视": "SZTV",
         "深圳衛視": "SZTV",
         "天津卫视": "TJTV",
+		"兵团卫视": "BTTV",
         "广东卫视高清": "GDTV",
         "广西卫视高清": "GXTV",
         "东南卫视高清": "DNTV",
@@ -214,6 +215,7 @@
         "SYLSTV": "http://static.tvmao.com/channel/logo/ATV-CLASSIC.jpg",
         "BJTV": "http://test.kkapp.com/image/channellogo/1384843574949.png",
         "DFTV": "http://test.kkapp.com/image/channellogo/1384843569356.png",
-        "CQTV": "http://test.kkapp.com/image/channellogo/1384843593965.png"
+        "CQTV": "http://test.kkapp.com/image/channellogo/1384843593965.png" ,
+		"BTTV": "http://test.kkapp.com/image/channellogo/1384843575496.png"
     }
 }
