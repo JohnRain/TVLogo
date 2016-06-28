@@ -149,7 +149,10 @@
         "歲月留聲": "SYLSTV",
         "北京卫视": "BJTV",
         "东方卫视": "DFTV",
-        "重庆卫视": "CQTV"
+        "重庆卫视": "CQTV",
+		"江西卫视": "JXTV" ,
+		"珠江卫视": "GDZJTV",
+		"广东珠江": "GDZJTV"
 
     },
     "logo": {
@@ -216,6 +219,7 @@
         "BJTV": "http://test.kkapp.com/image/channellogo/1384843574949.png",
         "DFTV": "http://test.kkapp.com/image/channellogo/1384843569356.png",
         "CQTV": "http://test.kkapp.com/image/channellogo/1384843593965.png" ,
-		"BTTV": "http://test.kkapp.com/image/channellogo/1384843575496.png"
+		"BTTV": "http://test.kkapp.com/image/channellogo/1384843575496.png" ,
+		"JXTV": "http://test.kkapp.com/image/channellogo/1384843584059.png"
     }
 }
