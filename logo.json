@@ -185,7 +185,7 @@
         "HENTV": "http://test.kkapp.com/image/channellogo/1384843285590.png",
         "HEBTV": "http://test.kkapp.com/image/channellogo/1384843585965.png",
         "SCTV": "http://test.kkapp.com/image/channellogo/1384843172434.png",
-        "YNTV": "http://static.tvmao.com/channel/logo/YNTV1.jpg",
+        "YNTV": "http://test.kkapp.com/image/channellogo/1384843580481.png",
         "GZTV": "http://test.kkapp.com/image/channellogo/1384843587246.png",
         "SDTV": "http://test.kkapp.com/image/channellogo/1384843582324.png",
         "SXTV": "http://test.kkapp.com/image/channellogo/1384843582199.png",
@@ -220,6 +220,7 @@
         "DFTV": "http://test.kkapp.com/image/channellogo/1384843569356.png",
         "CQTV": "http://test.kkapp.com/image/channellogo/1384843593965.png" ,
 		"BTTV": "http://test.kkapp.com/image/channellogo/1384843575496.png" ,
-		"JXTV": "http://test.kkapp.com/image/channellogo/1384843584059.png"
+		"JXTV": "http://test.kkapp.com/image/channellogo/1384843584059.png" ,
+		"GDZJTV": "http://test.kkapp.com/image/channellogo/1384843234715.png"
     }
 }
