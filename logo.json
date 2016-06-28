@@ -51,6 +51,7 @@
         "中央十四台高清": "cctv14",
         "中央十五台高清": "cctv15",
         "CCTV-NEWS": "cctvnews",
+		"CCTVNEWS": "cctvnews",
         "中央新闻频道": "cctvnews",
         "央视新闻": "cctvnews",
 		"央视少儿": "cctv14",
@@ -104,7 +105,7 @@
         "陕西卫视高清": "SHXITV",
         "辽宁卫视高清": "LNTV",
         "吉林卫视高清": "JILINTV",
-        "黑龙江卫视": "HLJTV",
+        "黑龙江卫视高清": "HLJTV",
         "新疆卫视高清": "XJTV",
         "西藏卫视高清": "XIZANGTV",
         "青海卫视高清": "QHTV",
@@ -152,7 +153,13 @@
         "重庆卫视": "CQTV",
 		"江西卫视": "JXTV" ,
 		"珠江卫视": "GDZJTV",
-		"广东珠江": "GDZJTV"
+		"广东珠江": "GDZJTV",
+		"幸福彩":"XFCTV",
+		"幸福彩HD":"XFCTV",
+		"幸福彩高清":"XFCTV",
+		"全纪实":"QJSTV",
+		"全纪实HD":"QJSTV",
+		"全纪实高清":"QJSTV"
 
     },
     "logo": {
@@ -221,6 +228,8 @@
         "CQTV": "http://test.kkapp.com/image/channellogo/1384843593965.png" ,
 		"BTTV": "http://test.kkapp.com/image/channellogo/1384843575496.png" ,
 		"JXTV": "http://test.kkapp.com/image/channellogo/1384843584059.png" ,
-		"GDZJTV": "http://test.kkapp.com/image/channellogo/1384843234715.png"
+		"GDZJTV": "http://test.kkapp.com/image/channellogo/1384843234715.png",
+		"QJSTV": "http://test.kkapp.com/image/channellogo/1384843541731.png",
+		"XFCTV": "http://test.kkapp.com/image/channellogo/1384843538653.png"
     }
 }
